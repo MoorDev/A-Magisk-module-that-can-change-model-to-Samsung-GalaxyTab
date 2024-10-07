@@ -1,6 +1,6 @@
-#by酷安@Scars_Official
-ro.product.manufacturer=google
-ro.product.brand=google
-ro.product.model=Pixel 7 Pro
-ro.product.name=cheetah
-ro.product.device=cheetah
+#Thanks for 酷安@Scars_Official
+ro.product.manufacturer=samsung
+ro.product.brand=samsung
+ro.product.model=SM-T976
+ro.product.name=clover
+ro.product.device=clover
